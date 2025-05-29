@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hi, I’m Mohamed Tamer.</h2>
 
 <p align="center" style="max-width: 600px; margin: auto;">
-  A Computer Science student at GUC who loves solving algorithmic challenges, building projects, and improving every day.<br/>
+  A Computer Science student at GUC who loves solving algorithmic challenges and building projects.<br/>
   On this page, you’ll find my coding journey, projects, and problem-solving solutions.<br/>
   Feel free to explore and connect!
 </p>
